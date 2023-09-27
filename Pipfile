@@ -10,7 +10,7 @@ flask-sqlalchemy = "*"
 sqlalchemy-serializer = "*"
 faker = "*"
 flask-restful = "*"
-
+gunicorn = "*"
 
 [dev-packages]
 
